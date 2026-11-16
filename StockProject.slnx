@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StockProject/StockDisplay.csproj" Id="10d0d2ae-4f31-4dd8-b532-6241c138e50a" />
+  <Project Path="StockDataUtilities/StockDataUtilities.csproj" Id="987616bf-3c2e-4410-81da-199199ceae1d" />
+</Solution>
